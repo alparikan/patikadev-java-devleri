@@ -11,10 +11,10 @@ public class PalindromSayılar {
            gecici /= 10;
         }
         if(num == tersi) {
-            System.out.println(num + " is a palindrom number.");
+            System.out.println(num + " is a palindromic number.");
         }
         else {
-            System.out.println(num + " is not a palindrom number.");
+            System.out.println(num + " is not a palindromic number.");
         }
     }
 
